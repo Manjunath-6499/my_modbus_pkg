@@ -1,0 +1,5 @@
+  File "/home/dynaspede/Desktop/my_modbus_pkg/install/my_modbus_pkg/lib/python3.10/site-packages/my_modbus_pkg/sample.py", line 7
+    def 
+        ^
+SyntaxError: invalid syntax
+

@@ -1,0 +1,32 @@
+running egg_info
+writing build/my_modbus_pkg/my_modbus_pkg.egg-info/PKG-INFO
+writing dependency_links to build/my_modbus_pkg/my_modbus_pkg.egg-info/dependency_links.txt
+writing entry points to build/my_modbus_pkg/my_modbus_pkg.egg-info/entry_points.txt
+writing requirements to build/my_modbus_pkg/my_modbus_pkg.egg-info/requires.txt
+writing top-level names to build/my_modbus_pkg/my_modbus_pkg.egg-info/top_level.txt
+reading manifest file 'build/my_modbus_pkg/my_modbus_pkg.egg-info/SOURCES.txt'
+writing manifest file 'build/my_modbus_pkg/my_modbus_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+copying my_modbus_pkg/modbus_comm4.py -> /home/dynaspede/Desktop/my_modbus_pkg/build/my_modbus_pkg/build/lib/my_modbus_pkg
+running install
+running install_lib
+copying /home/dynaspede/Desktop/my_modbus_pkg/build/my_modbus_pkg/build/lib/my_modbus_pkg/modbus_comm4.py -> /home/dynaspede/Desktop/my_modbus_pkg/install/my_modbus_pkg/lib/python3.10/site-packages/my_modbus_pkg
+byte-compiling /home/dynaspede/Desktop/my_modbus_pkg/install/my_modbus_pkg/lib/python3.10/site-packages/my_modbus_pkg/modbus_comm4.py to modbus_comm4.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/dynaspede/Desktop/my_modbus_pkg/install/my_modbus_pkg/lib/python3.10/site-packages/my_modbus_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+Copying build/my_modbus_pkg/my_modbus_pkg.egg-info to /home/dynaspede/Desktop/my_modbus_pkg/install/my_modbus_pkg/lib/python3.10/site-packages/my_modbus_pkg-0.0.0-py3.10.egg-info
+running install_scripts
+Installing modbus1_comm script to /home/dynaspede/Desktop/my_modbus_pkg/install/my_modbus_pkg/lib/my_modbus_pkg
+Installing modbus_comm script to /home/dynaspede/Desktop/my_modbus_pkg/install/my_modbus_pkg/lib/my_modbus_pkg
+Installing modbus_comm2 script to /home/dynaspede/Desktop/my_modbus_pkg/install/my_modbus_pkg/lib/my_modbus_pkg
+Installing modbus_comm3 script to /home/dynaspede/Desktop/my_modbus_pkg/install/my_modbus_pkg/lib/my_modbus_pkg
+Installing modbus_comm4 script to /home/dynaspede/Desktop/my_modbus_pkg/install/my_modbus_pkg/lib/my_modbus_pkg
+Installing modbus_comm5 script to /home/dynaspede/Desktop/my_modbus_pkg/install/my_modbus_pkg/lib/my_modbus_pkg
+Installing modbus_comm6 script to /home/dynaspede/Desktop/my_modbus_pkg/install/my_modbus_pkg/lib/my_modbus_pkg
+Installing modbus_comm7 script to /home/dynaspede/Desktop/my_modbus_pkg/install/my_modbus_pkg/lib/my_modbus_pkg
+Installing modbus_comm8 script to /home/dynaspede/Desktop/my_modbus_pkg/install/my_modbus_pkg/lib/my_modbus_pkg
+Installing modbus_comm9 script to /home/dynaspede/Desktop/my_modbus_pkg/install/my_modbus_pkg/lib/my_modbus_pkg
+Installing modbus_comm_joy script to /home/dynaspede/Desktop/my_modbus_pkg/install/my_modbus_pkg/lib/my_modbus_pkg
+writing list of installed files to '/home/dynaspede/Desktop/my_modbus_pkg/build/my_modbus_pkg/install.log'

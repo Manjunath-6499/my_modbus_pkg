@@ -1,0 +1,24 @@
+[0.329s] Invoking command in '/home/dynaspede/Desktop/my_modbus_pkg': PYTHONPATH=/home/dynaspede/Desktop/my_modbus_pkg/build/my_modbus_pkg/prefix_override:/home/dynaspede/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/dynaspede/Desktop/my_modbus_pkg/install/my_modbus_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/my_modbus_pkg build --build-base /home/dynaspede/Desktop/my_modbus_pkg/build/my_modbus_pkg/build install --record /home/dynaspede/Desktop/my_modbus_pkg/build/my_modbus_pkg/install.log --single-version-externally-managed install_data
+[0.459s] running egg_info
+[0.459s] writing build/my_modbus_pkg/my_modbus_pkg.egg-info/PKG-INFO
+[0.459s] writing dependency_links to build/my_modbus_pkg/my_modbus_pkg.egg-info/dependency_links.txt
+[0.460s] writing entry points to build/my_modbus_pkg/my_modbus_pkg.egg-info/entry_points.txt
+[0.460s] writing requirements to build/my_modbus_pkg/my_modbus_pkg.egg-info/requires.txt
+[0.460s] writing top-level names to build/my_modbus_pkg/my_modbus_pkg.egg-info/top_level.txt
+[0.461s] reading manifest file 'build/my_modbus_pkg/my_modbus_pkg.egg-info/SOURCES.txt'
+[0.461s] writing manifest file 'build/my_modbus_pkg/my_modbus_pkg.egg-info/SOURCES.txt'
+[0.461s] running build
+[0.462s] running build_py
+[0.462s] copying my_modbus_pkg/modbus_comm.py -> /home/dynaspede/Desktop/my_modbus_pkg/build/my_modbus_pkg/build/lib/my_modbus_pkg
+[0.462s] running install
+[0.462s] running install_lib
+[0.462s] copying /home/dynaspede/Desktop/my_modbus_pkg/build/my_modbus_pkg/build/lib/my_modbus_pkg/modbus_comm.py -> /home/dynaspede/Desktop/my_modbus_pkg/install/my_modbus_pkg/lib/python3.10/site-packages/my_modbus_pkg
+[0.462s] byte-compiling /home/dynaspede/Desktop/my_modbus_pkg/install/my_modbus_pkg/lib/python3.10/site-packages/my_modbus_pkg/modbus_comm.py to modbus_comm.cpython-310.pyc
+[0.463s] running install_data
+[0.463s] running install_egg_info
+[0.464s] removing '/home/dynaspede/Desktop/my_modbus_pkg/install/my_modbus_pkg/lib/python3.10/site-packages/my_modbus_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.464s] Copying build/my_modbus_pkg/my_modbus_pkg.egg-info to /home/dynaspede/Desktop/my_modbus_pkg/install/my_modbus_pkg/lib/python3.10/site-packages/my_modbus_pkg-0.0.0-py3.10.egg-info
+[0.464s] running install_scripts
+[0.476s] Installing modbus_comm script to /home/dynaspede/Desktop/my_modbus_pkg/install/my_modbus_pkg/lib/my_modbus_pkg
+[0.476s] writing list of installed files to '/home/dynaspede/Desktop/my_modbus_pkg/build/my_modbus_pkg/install.log'
+[0.489s] Invoked command in '/home/dynaspede/Desktop/my_modbus_pkg' returned '0': PYTHONPATH=/home/dynaspede/Desktop/my_modbus_pkg/build/my_modbus_pkg/prefix_override:/home/dynaspede/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/dynaspede/Desktop/my_modbus_pkg/install/my_modbus_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/my_modbus_pkg build --build-base /home/dynaspede/Desktop/my_modbus_pkg/build/my_modbus_pkg/build install --record /home/dynaspede/Desktop/my_modbus_pkg/build/my_modbus_pkg/install.log --single-version-externally-managed install_data
